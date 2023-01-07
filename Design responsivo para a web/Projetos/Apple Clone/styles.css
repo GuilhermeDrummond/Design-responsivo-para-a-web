@@ -1,0 +1,50 @@
+.nav-top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(63, 61, 61);
+    height: 50px;
+    
+}
+
+.frases-nav {
+    display: flex;
+    justify-content: center;
+    flex-direction:row ;
+    gap: 50px;
+
+
+}
+
+.frases-nav a {
+    font-family: 'Poppins'; font-size: 12px;
+    color: aliceblue;
+
+}
+
+.imagens {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.iph14{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.iph14-text {
+    display: flex;
+    position: absolute;
+    color: rgb(11, 137, 255);
+    gap: 50px;
+    margin-top: -330px;
+    font-family: 'Poppins'; font-size: 18px;
+    
+}
+
+.iph14-text a{
+    color: rgb(11, 137, 255);
+
+}
